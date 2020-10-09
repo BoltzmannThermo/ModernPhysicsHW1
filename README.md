@@ -1,1 +1,3 @@
 # ModernPhysicsHW1
+ModernPhysicsHW1牛刀小試是一些靜態圖
+ModernPhysicsHW1是正式版
